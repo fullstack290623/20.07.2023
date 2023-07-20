@@ -1,0 +1,11 @@
+
+
+1. 
+write a flowchart which:
+store the number 1.75 in memory-cell called "a"
+store the number 2.18 in memory-cell called "b"
+store the multiply of them in a memory-call called multiply
+print the memory-cell multiply
+
+
+
