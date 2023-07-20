@@ -1,6 +1,19 @@
 
+1.
+write a flowchart which does nothing
 
-1. 
+2.
+write a flowchart which writes "hello world!"
+
+3.
+write a flowchart which:
+store the number 4 in memory-cell called "number1"
+store the number 5 in memory-cell called "number2"
+store the sum of them in a memory-call called sum
+print the memory-cell sum
+
+4.
+prog4
 write a flowchart which:
 store the number 1.75 in memory-cell called "a"
 store the number 2.18 in memory-cell called "b"
